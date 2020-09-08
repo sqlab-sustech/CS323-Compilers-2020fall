@@ -8,5 +8,5 @@ main:
 libll:
 	$(CC) linked_list.c --shared -fPIC -o libll.so
 clean:
-	@rm -f a.out hello.out ll_main.out
+	@rm -f a.out hello.out ll_main.out libll.so
 .PHONY: hello main
