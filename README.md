@@ -8,7 +8,7 @@ Coursework of SUSTech CS323-Compilers (2020fall)
 |:----:|---------|---------------------|---------------------------------|
 | Lab1 | Sept.8  | C language tutorial | Project 1 release (due: Oct.11) |
 | Lab2 | Sept.15 | Flex tutorial | |
-| Lab2 | Sept.22 | (TBU) | |
+| Lab3 | Sept.22 | (TBU) | |
 
 ## Useful Resources
 
@@ -23,3 +23,7 @@ Coursework of SUSTech CS323-Compilers (2020fall)
 + Flex/Bison Metacompiler
   + Their predecessors: [The LEX & YACC Page](http://dinosaur.compilertools.net/)
   + Introduction: [Flex and Bison](https://aquamentus.com/flex_bison.html)
+
++ Regular Expression
+  + Testing regex: [Online regex tester and debugger](https://regex101.com/)
+  + Visualizing regex: [Regulex: JavaScript Regular Expression Visualizer](https://jex.im/regulex/)
