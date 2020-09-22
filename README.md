@@ -4,11 +4,14 @@ Coursework of SUSTech CS323-Compilers (2020fall)
 
 ## Lab Schedule
 
-|      | Date    | Description         | Highlight                       |
-|:----:|---------|---------------------|---------------------------------|
-| Lab1 | Sept.8  | C language tutorial | Project 1 release (due: Oct.11) |
-| Lab2 | Sept.15 | Flex tutorial | |
-| Lab3 | Sept.22 | (TBU) | |
+|       | Date    | Description             | Highlight                              |
+| :---: | ------- | ----------------------- | -------------------------------------- |
+| Lab1  | Sept.8  | C language tutorial     | Project 1 release (due: Oct.11)        |
+| Lab2  | Sept.15 | Flex tutorial           |                                        |
+| Lab3  | Sept.22 | Bison tutorial          | Check the "project1-output_format.pdf" |
+| Lab4  | Sept.29 | Error recovery in Bison |                                        |
+|   -   | Oct.6   | -                       | National Day & Golden week             |
+| Lab5  | Oct.13  | (TBU)                   | Project 2 release                      |
 
 ## Useful Resources
 
