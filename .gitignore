@@ -9,5 +9,6 @@ lex.yy.c
 syntax.tab.[hc]
 bin
 !*/test/*.out
-.vscode/
 cmake-build-debug/
+.idea/
+*.pdf
