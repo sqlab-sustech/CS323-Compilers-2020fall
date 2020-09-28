@@ -2,7 +2,6 @@
     #include"lex.yy.c"
     void yyerror(const char*);
 %}
-%error-verbose
 
 %token LC RC LB RB COLON COMMA
 %token STRING NUMBER
@@ -35,6 +34,7 @@ Member:
 Array:
       LB RB
     | LB Values RB
+    | LB Values RC error { puts("unmatched right bracket, recovered"); }
     ;
 Values:
       Value
@@ -43,7 +43,7 @@ Values:
 %%
 
 void yyerror(const char *s){
-    printf("syntax error: %s\n", s);
+    printf("syntax error: ");
 }
 
 int main(int argc, char **argv){
