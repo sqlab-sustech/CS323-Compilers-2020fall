@@ -30,3 +30,8 @@ Coursework of SUSTech CS323-Compilers (2020fall)
 + Regular Expression
   + Testing regex: [Online regex tester and debugger](https://regex101.com/)
   + Visualizing regex: [Regulex: JavaScript Regular Expression Visualizer](https://jex.im/regulex/)
+
++ JSON Related
+  + Introduction of JSON format: [json.org](https://www.json.org/)
+  + The JSON standard: [RFC4627](https://tools.ietf.org/html/rfc4627)
+  + Parsing malformed JSON: [A Dirty JSON Parser](https://rmarcus.info/blog/2014/10/05/dirty-json-parser.html)
