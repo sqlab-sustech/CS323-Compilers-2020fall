@@ -24,6 +24,9 @@ Coursework of SUSTech CS323-Compilers (2020fall)
 
 + Data Structures
   + Data structure and algorithms tutorial series: [Linked List](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
+  + Data structure and algorithms tutorial series: [Binary Search Tree](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm)
+  + Data structure and algorithms tutorial series: [Hash Table](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
+  + Hash function algorithms: [node-hashes](https://github.com/liushoukai/node-hashes)
 
 + Flex/Bison Metacompiler
   + Their predecessors: [The LEX & YACC Page](http://dinosaur.compilertools.net/)
