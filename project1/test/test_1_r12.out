@@ -43,7 +43,7 @@ Program (1)
                       ID: ch
                     ASSIGN
                     Exp (5)
-                      CHAR: \xC0
+                      CHAR: '\xC0'
                 SEMI
         StmtList (6)
           Stmt (6)
