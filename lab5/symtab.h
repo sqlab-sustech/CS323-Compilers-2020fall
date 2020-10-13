@@ -8,7 +8,10 @@
 #define KEY_LEN 32
 #define VAL_T int
 
+#ifndef SYMTAB
 typedef struct symtab symtab;
+#define SYMTAB
+#endif
 
 /* symbol table entry, only used internally */
 typedef struct entry {

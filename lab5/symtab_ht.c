@@ -8,7 +8,11 @@ struct _node {
     entry entry;
     struct _node *next;
 };
+
+#ifndef SYMTAB
 typedef struct _node *symtab[TABLE_SIZE];
+#define SYMTAB
+#endif
 
 // ************************************************************
 //    Your implementation goes here
