@@ -12,8 +12,13 @@ Coursework of SUSTech CS323-Compilers (2020fall)
 | Lab4 | Sept.29 | Error recovery in Bison | |
 | - | Oct.6 | - | National Day & Golden week |
 | Lab5 | Oct.13 | Maintaining symbol table | Project 2 release (due: Nov.15) |
-| Lab6 | Oct.20 | Type checking | |
-| Lab7 | Oct.27 | (TBU) | |
+| Lab6 | Oct.20 | **LR parsing** & Type checking | |
+| Lab7 | Oct.27 | Scope checking | |
+| Lab8 | Nov.3 | (TBU) | |
+
++ The bold contents are theoretical sessions
+
+---
 
 ## Useful Resources
 
