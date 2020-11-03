@@ -55,6 +55,8 @@ int main(int argc, char **argv){
         exit(-1);
     }
     yyparse();
-    printf("%d\n", is_valid);
+    if(is_valid) {
+        printf("%d\n", is_valid);
+    }
     return 0;
 }
