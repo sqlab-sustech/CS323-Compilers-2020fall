@@ -25,7 +25,7 @@ def check_jsonchecker_correct():
 def check_jsonchecker_error():
     for casefile in DATA.glob('case_*.json'):
         out = jsonchecker_output(casefile)
-        answer = 'duplicate key: ' + casefile.name[5:6]
+        answer = f'duplicate key: "{casefile.name[5:6]}"' 
         print(f'For {casefile.name}:', end=' ')
         assert out == answer
         print('CORRECT')
