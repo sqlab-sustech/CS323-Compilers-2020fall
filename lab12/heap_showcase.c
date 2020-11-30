@@ -65,7 +65,12 @@ void print_note() {
 }
 
 void magic() {
-    system("/bin/sh");
+    putchar('\n');
+    puts("###################");
+    puts("  Yes you got it!  ");
+    puts("###################");
+    putchar('\n');
+    exit(0);
 }
 
 void menu() {
